@@ -7,6 +7,7 @@ This is my first time working with gui on python, creating github repositories, 
 
 ## Installation
 Running on Python 3.9.7. Ensure that pyperclip is installed. For reference, I used this [link](https://www.delftstack.com/howto/python/python-copy-to-clipboard/). Also ensure the help.txt and icon.ico files are installed. 
+> pip install pyperclip
 
 ## Instructions
 Instructions:
